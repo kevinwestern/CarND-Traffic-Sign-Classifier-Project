@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelfortest"
+all_model_checkpoint_paths: "modelfortest"
